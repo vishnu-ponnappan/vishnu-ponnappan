@@ -7,7 +7,6 @@ Full Stack Developer
 I am a full stack developer with 15+ years of experience.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [vishnu.alpy@gmail.com](mailto:vishnu.alpy@gmail.com)
 
 <a href="https://www.github.com/vishnu-ponnappan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vishnu-ponnappan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
